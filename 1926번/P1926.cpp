@@ -48,7 +48,7 @@ int main(void) {
         }
     }
     if (count == 0) {
-        printf("0\n");
+        printf("0\n0");
     } else printf("%d\n%d", count, max);
     return 0;
 }
