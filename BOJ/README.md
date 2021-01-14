@@ -1,2 +1,2 @@
-# BOJ
-https://www.acmicpc.net/
+# N과 M
+https://www.acmicpc.net/workbook/view/2341
