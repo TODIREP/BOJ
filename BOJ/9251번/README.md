@@ -1,0 +1,2 @@
+# 9251번: LCS
+https://www.acmicpc.net/problem/9251
