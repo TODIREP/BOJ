@@ -1,2 +1,2 @@
-# N과 M
-https://www.acmicpc.net/workbook/view/2341
+# BAEKJOON ONLINE JUDGE
+https://www.acmicpc.net/
