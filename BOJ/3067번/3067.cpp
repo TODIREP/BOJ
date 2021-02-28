@@ -32,7 +32,5 @@ int main(void)
         }
 
         cout << cnt[M] << '\n';
-
-        int count = 0;
     }
 }
