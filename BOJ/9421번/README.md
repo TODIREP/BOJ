@@ -1,0 +1,1 @@
+# [9421번: 소수상근수](https://www.acmicpc.net/problem/9421)
