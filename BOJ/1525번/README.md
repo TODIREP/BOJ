@@ -1,0 +1,1 @@
+# [1525번: 퍼즐](https://www.acmicpc.net/problem/1525)
