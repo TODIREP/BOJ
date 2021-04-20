@@ -1,0 +1,1 @@
+# [20365번: 블로그2](https://www.acmicpc.net/problem/20365)
