@@ -1,0 +1,1 @@
+# [6416번: 트리인가?](https://www.acmicpc.net/problem/6416)
