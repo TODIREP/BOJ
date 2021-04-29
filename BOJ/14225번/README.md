@@ -1,0 +1,1 @@
+# [14225번: 부분수열의 합](https://www.acmicpc.net/problem/14225)
