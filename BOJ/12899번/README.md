@@ -1,0 +1,1 @@
+# [12899번: 데이터 구조](https://www.acmicpc.net/problem/12899)
