@@ -1,0 +1,1 @@
+# [1414번: 불우이웃돕기](https://www.acmicpc.net/problem/1414)
