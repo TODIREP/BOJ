@@ -1,0 +1,1 @@
+# [2423번: 전구를 켜라](https://www.acmicpc.net/problem/2423)
